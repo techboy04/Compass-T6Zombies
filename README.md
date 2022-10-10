@@ -20,6 +20,6 @@ OR you may use the source code/uncompiled version by using compass_sourcecode.gs
 This script is configurable
 
 ```set value 0/1```
-enable_direction - Display the direction the player is facing - Default: 1
-enable_zone = Displays the zone the player is in - Default: 1
-enable_angle = Displays the angle the player is facing - Default: 1
+``enable_direction`` - Display the direction the player is facing - Default: 1
+``enable_zone`` = Displays the zone the player is in - Default: 1
+``enable_angle`` = Displays the angle the player is facing - Default: 1
